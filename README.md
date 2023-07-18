@@ -1,8 +1,8 @@
 # Dapunta
 Script ini berjalan menggunakan metode mbasic
 perintah 
-$git clone https://github.com/Kumpulan-123/dapunta
+$git clone https://github.com/Kumpulan-123/Dapunta
 $ls
-$cd dapunta
+$cd Dapunta
 $ls
 $python reg_romz.py
